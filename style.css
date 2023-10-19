@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    height: 100vh;
+    background-color: #eec0c6;
+    background-image: linear-gradient(315deg, #eec0c6, #7ee8fa 74%);
+}
+.row{
+    box-sizing: border-box;
+    gap: 60px;
+}
+.card{
+    border: 3px solid rgb(0, 76, 139);
+}
+
+.white{
+    color: whitesmoke;
+}
